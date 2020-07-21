@@ -1,5 +1,8 @@
 # facebook-ar-scaffolding
+A great way to implement ar into your busniess to improve user experiences based on fb apps.
 
+## Flow
+![](https://i.imgur.com/h8hv03L.png)
 ```sequence
 Note left of User: Start
 User->Me: User navigates to a product template
